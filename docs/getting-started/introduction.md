@@ -1,0 +1,3 @@
+# **Introduction**
+
+Embark on the path to intelligent asset management, discovering their true value and your true potential, starting with the fundamental concepts and the installation procedure. Discover in detail all the procedures to finally know your worth, become a professional in the art of asset management, learn to sell what you no longer use, and discover what your objects are really worth. 
