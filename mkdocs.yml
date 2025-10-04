@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Getting Started:
+      - Get Abelaa: getting-started/get.md
       - Introduction: getting-started/introduction.md
       - Installation: getting-started/installation.md
       - Quick Start: getting-started/quick-start.md
@@ -31,6 +32,35 @@ extra:
     - name: Francais
       link: /docs/fr/
       lang: fr
+
+plugins:
+  - search # Default search plugin
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+          site_name: Abelaa Documentation
+        - locale: fr
+          name: Francais
+          build: true
+          site_name: Documentation Abelaa
+          nav:
+            - Accueil: index.fr.md
+            - A propos: about.fr.md
+            - Demarrage:
+                - Obtenir Abelaa: getting-started/get.fr.md
+                - Introduction: getting-started/introduction.fr.md
+                - Installation: getting-started/installation.fr.md
+                - Démarrage rapide: getting-started/quick-start.fr.md
+            - Guides:
+                - Configuration: guides/configuration.fr.md
+                - Thématisation: guides/theming.fr.md
+                - Plugins: guides/plugins.fr.md
+            - FAQ: faq.fr.md
+  
 
 theme:
   name: material
