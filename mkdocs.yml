@@ -10,9 +10,10 @@ nav:
       - Installation: getting-started/installation.md
       - Quick Start: getting-started/quick-start.md
   - Guides:
-      - Configuration: guides/configuration.md
+      - Inventary: guides/inventaire.md
+      - Marketplace: guides/marketplace.md
       - Theming: guides/theming.md
-      - Plugins: guides/plugins.md
+      
   - FAQ: faq.md
 
 markdown_extensions:
@@ -56,9 +57,9 @@ plugins:
                 - Installation: getting-started/installation.fr.md
                 - Démarrage rapide: getting-started/quick-start.fr.md
             - Guides:
-                - Configuration: guides/configuration.fr.md
-                - Thématisation: guides/theming.fr.md
-                - Plugins: guides/plugins.fr.md
+                - Inventaire: guides/inventaire.fr.md
+                - Marché: guides/marketplace.fr.md
+                - Thème: guides/theming.fr.md
             - FAQ: faq.fr.md
   
 

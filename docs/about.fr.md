@@ -9,7 +9,7 @@ Abelaa est une application mobile qui aide chacun à révéler son véritable po
 ## Notre histoire
 
 ABELAA est née d'une constatation : personne n'est pauvre, chacun possède un potentiel. En Afrique, comme ailleurs, le vrai défi n'est pas l'absence de ressources mais l'ignorance de sa propre richesse.
-En 2023, nous avons créé ABELAA, une application conçue pour aider chaque personne à identifier, valoriser et transformer son potentiel en solutions concrètes.
+En 2025, nous avons créé ABELAA, une application conçue pour aider chaque personne à identifier, valoriser et transformer son potentiel en solutions concrètes.
 
 Aujourd'hui, ABELAA est plus qu'un outil : c'est un mouvement fondé sur la confiance, la solidarité et la prospérité partagée.
 
