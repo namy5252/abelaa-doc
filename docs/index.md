@@ -1,3 +1,8 @@
+---
+date:
+    created: 2025-10-04
+---
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
