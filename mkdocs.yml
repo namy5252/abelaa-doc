@@ -12,6 +12,7 @@ nav:
   - Guides:
       - Inventary: guides/inventaire.md
       - Marketplace: guides/marketplace.md
+      - Dashboard: guides/dashboard.md
       - Theming: guides/theming.md
       
   - FAQ: faq.md
@@ -59,6 +60,7 @@ plugins:
             - Guides:
                 - Inventaire: guides/inventaire.fr.md
                 - Marché: guides/marketplace.fr.md
+                - Tableau de bord: guides/dashboard.fr.md
                 - Thème: guides/theming.fr.md
             - FAQ: faq.fr.md
   

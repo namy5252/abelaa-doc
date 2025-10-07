@@ -1,4 +1,4 @@
-# Inventary
+# Inventory
 
 The inventory is the area where all your belongings are listed. You can fill and empty it as you wish to know your material worth, while efficiently managing what you own.
 
@@ -6,7 +6,11 @@ The inventory is the area where all your belongings are listed. You can fill and
 
 To view your belongings in the inventory, go to the home page and tap "Inventory."
 
+![Alt text](../assets/img/accueil.png " Home page")
+
 In this inventory, you can see all the belongings you have saved. If the list is empty, it simply means you haven't saved any yet.
+
+![Alt text](../assets/img/inventor.png " Inventor Home page")
 
 > If you have already entered items but they don't appear in your inventory, [contact us](https://wa.me/+237698778055)
 
