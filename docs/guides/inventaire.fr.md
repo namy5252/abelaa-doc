@@ -74,3 +74,10 @@ Cliquez sur les trois petits point d'option verticaux et sur ***supprimer le bie
 
 ## Comment exporter la liste de vos biens
 
+1. Pour exporter l'historique de votre inventaire à partir de la liste d'inventaire :
+2. Ouvrez la liste d'inventaire en cliquant sur ***Ouvrir la liste d'inventaire***.
+3. Appuyez sur le bouton Exporter (vous avez le choix entre exporter au format PDF, Excel ou CSV).
+
+> Remarque :
+
+> - Si vous souhaitez exporter dans plusieurs formats, c'est possible. Vous devez simplement appuyer sur les boutons correspondants les uns après les autres.

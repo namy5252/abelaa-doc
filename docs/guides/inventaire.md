@@ -72,3 +72,11 @@ Click on the three small vertical dots and on ***delete item***, then confirm th
 > Note: Deleting an item is irreversible. Abelaa cannot recover items you have deleted. You can only recover deleted items by manually re-adding them to your inventory. Please note that if the item was already listed in the marketplace, it will not be deleted if you have already sold or traded it.
 
 ## How to export your item list
+
+1. To export your inventory history from the inventory list:
+2. Open the inventory list by clicking on ***Open the inventory list***.
+3. Click on the Export button (you can choose to export in PDF, Excel, or CSV format).
+
+> Notes:
+
+> - If you wish to export in multiple formats, it is possible. You just need to click on the corresponding buttons one after the other.
