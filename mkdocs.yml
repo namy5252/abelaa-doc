@@ -64,7 +64,6 @@ plugins:
                 - Thème: guides/theming.fr.md
             - FAQ: faq.fr.md
   
-
 theme:
   name: material
   language: en
@@ -78,15 +77,9 @@ theme:
     - header.autohide
   palette:
 
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      primary: green 
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -96,6 +89,10 @@ theme:
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to system preference
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
 copyright: 
   Copyright &copy; 2024 abelaa. Tous droits réservés. Fait ❤️ avec pour la communauté
