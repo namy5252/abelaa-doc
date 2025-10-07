@@ -1,5 +1,3 @@
-# Accueil
+# Binvenue sur abelaa
 
-Bienvenue dans la documentation d'Abelaa (français) par son excellence.
-
-Ceci est une traduction de la page d'accueil.
+Bienvenue dans la documentation d'Abelaa la plateforme qui vas vous permettre de découvrir la valeur cachée des biens que vous possédez.
