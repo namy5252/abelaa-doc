@@ -6,7 +6,7 @@ The inventory is the space where all your belongings are listed. You can fill an
 
 To view your assets in the inventory, go to the home page and tap "Inventory".
 
-![Alt ​​text](../assets/img/home.png "Home Page")
+![Alt ​​text](../assets/img/accueil.png "Home Page")
 
 In this inventory, you can see all the assets you have saved. If the list is empty, it simply means that you have [added](#how-to-add-an-asset-to-your-inventory) none.
 
