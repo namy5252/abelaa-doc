@@ -35,7 +35,7 @@ Pour ajouter de nouveau bien dans votre inventaire il vous suffira sur la page d
 
 ## Comment retrouver un bien dans l'inventaire 
 
-Dans l'invetaire, vous pouvez rechercher des un bien. Vous pouvez utiliser la barre de recherche dans la liste de l'inventaire ou directement sur la page d'acceuil de l'espace inventaire.
+Dans l'invetaire, vous pouvez rechercher un bien. Vous pouvez utiliser la barre de recherche dans la liste de l'inventaire ou directement sur la page d'acceuil de l'espace inventaire.
 
 ### *Rechercher par mot-clé*
 
