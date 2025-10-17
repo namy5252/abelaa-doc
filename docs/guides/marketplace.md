@@ -4,7 +4,7 @@ The Market is a meeting place for sellers and buyers. Here you can display the i
 
 ## **How ​​to View the Market**
 
-You can view the products of a company or individual in the Market, accessible via the Market option on the home screen. You can also find your items there if you have published any.
+You can view the products of a company or individual in the Market or from the dashboard quick actions, accessible via the Market option on the home screen. You can also find your items there if you have published any.
 
 ![Alt ​​text](../assets/img/accueil.png "Home Page")
 

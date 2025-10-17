@@ -23,7 +23,7 @@ To view a list of your inventory, simply click the "Open inventory list" button 
 You can register the items you own so you know exactly what you own.
 You can then choose to give it to an individual, a loved one, or even a business, or to sell it (#how-to-list-an-item-for-sale).
 
-To add a new item to your inventory, simply follow the following steps on the inventory page:
+To add a new item to your inventory, simply follow the following steps on the inventory page or on the dashboard:
 
 1. Click on "Add an item"
 2. Enter the item's information

@@ -4,7 +4,7 @@ Le marché est le lieux de rencontrer entre les vendeurs et les achéteurs. Ici 
 
 ## **Comment consulter le Marché**
 
-Vous pouvez voir les produits d’une entreprise, d'une personne dans le marché, accessible avec l'option Marché sur l'écran d'accueil, vous pouvez aussi y retrouver vos article si vous en avez publier.
+Vous pouvez voir les produits d’une entreprise, d'une personne dans le marché, accessible avec l'option Marché sur l'écran d'accueil ou depuis les action rapide du tableau de bord, vous pouvez aussi y retrouver vos article si vous en avez publier.
 
 ![Alt text](../assets/img/accueil.png " Page d'acceuil")
 

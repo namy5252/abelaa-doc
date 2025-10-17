@@ -5,13 +5,14 @@ nav:
   - Home: index.md
   - About: about.md
   - Getting Started:
-      - Get Abelaa: getting-started/get.md
       - Introduction: getting-started/introduction.md
+      - Get Abelaa: getting-started/get.md
       - Installation: getting-started/installation.md
       - Quick Start: getting-started/quick-start.md
   - Guides:
       - Inventary: guides/inventaire.md
       - Marketplace: guides/marketplace.md
+      - Potential: guides/potential.md
       - Dashboard: guides/dashboard.md
       - Theming: guides/theming.md
       
@@ -53,13 +54,14 @@ plugins:
             - Accueil: index.fr.md
             - A propos: about.fr.md
             - Demarrage:
-                - Obtenir Abelaa: getting-started/get.fr.md
                 - Introduction: getting-started/introduction.fr.md
+                - Obtenir Abelaa: getting-started/get.fr.md
                 - Installation: getting-started/installation.fr.md
                 - Démarrage rapide: getting-started/quick-start.fr.md
             - Guides:
                 - Inventaire: guides/inventaire.fr.md
                 - Marché: guides/marketplace.fr.md
+                - Potentiel: guides/potential.fr.md
                 - Tableau de bord: guides/dashboard.fr.md
                 - Thème: guides/theming.fr.md
             - FAQ: faq.fr.md
@@ -95,4 +97,4 @@ extra_css:
   - stylesheets/extra.css
 
 copyright: 
-  Copyright &copy; 2024 abelaa. Tous droits réservés. Fait ❤️ avec pour la communauté
+  Copyright &copy; 2024 abelaa. Tous droits réservés. Fait avec ❤️ pour la communauté

@@ -1,3 +1,3 @@
 # TABLEAU DE BORD
 
-Le texte du tableau de bord
+Le tableau de bord est l'espace ou est recapitulé de manière claire votre veritable valeur en terme de biens

@@ -23,7 +23,7 @@ Pour avoir un affichage sous forme de liste de votre inventaire il suffira de cl
 Vous pouvez enregistrer les biens que vous possédez afin de savoir axactement ce que vous possedez en terme de bien.
 Vous pouvez choisir par la suite de le donner a un individu quelconque, un proche et même une entreprise ou de le [vendre](#comment-mettre-un-bien-en-vente).
 
-Pour ajouter de nouveau bien dans votre inventaire il vous suffira sur la page de l'inventaire de:
+Pour ajouter de nouveau bien dans votre inventaire il vous suffira sur la page de l'inventaire ou sur le tableau de bord de:
 
 1. cliquer sur « *ajouter un bien* »
 2. renseigner  les informations sur le bien
