@@ -12,3 +12,6 @@ There are 3 ways to get Abelaa:
         *Click on this link* [https://Personal.abelaa.com](https://test.abelaa.org/en/auth/signup?type=personal&ref=ljQuGstUoyofPQUiwKlLAwS9GudfCsCSOls8EOCp0ftOCuiHm8pvQS2OfDlPLo4p)
 
 If you have problems registering using one method, try the other methods as well.
+
+> Note:
+> To get Abelaa on your iOS device, simply use one of the three methods above.

@@ -13,5 +13,5 @@ Il existe trois façons d'obtenir Abelaa:
 
 Si vous rencontrez des difficultés pour vous inscrire avec une méthode, essayez également les autres méthodes.
 
->Remarque :
->Pour obtenir Abelaa sur votre appareil IOS il suffit d'utilise l'une des trois méthodes si dessus
+> Remarque :
+> Pour obtenir Abelaa sur votre appareil IOS il suffit d'utilise l'une des trois méthodes si dessus
