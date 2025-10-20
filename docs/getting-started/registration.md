@@ -1,4 +1,4 @@
-# Installation
+# Registration
 
 This page describes how to install Abelaa for different platforms.
 
@@ -7,7 +7,7 @@ This page describes how to install Abelaa for different platforms.
 - Python 3.8+
 - pip
 
-## Installation
+## Registration
 
 ```bash
 pip install abelaa

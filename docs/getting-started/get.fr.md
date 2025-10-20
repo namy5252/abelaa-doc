@@ -15,3 +15,8 @@ Si vous rencontrez des difficultés pour vous inscrire avec une méthode, essaye
 
 > Remarque :
 > Pour obtenir Abelaa sur votre appareil IOS il suffit d'utilise l'une des trois méthodes si dessus
+
+## **Ressources connexes**
+
+- [Comment créer un compte sur Abelaa?](registration.fr.md)
+- [Se connecter à un compte existant](registration.fr.md)

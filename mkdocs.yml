@@ -7,7 +7,7 @@ nav:
   - Getting Started:
       - Introduction: getting-started/introduction.md
       - Get Abelaa: getting-started/get.md
-      - Installation: getting-started/installation.md
+      - Registration: getting-started/registration.md
       - Quick Start: getting-started/quick-start.md
   - Guides:
       - Inventary: guides/inventaire.md
@@ -56,7 +56,7 @@ plugins:
             - Demarrage:
                 - Introduction: getting-started/introduction.fr.md
                 - Obtenir Abelaa: getting-started/get.fr.md
-                - Installation: getting-started/installation.fr.md
+                - Inscription: getting-started/registration.fr.md
                 - Démarrage rapide: getting-started/quick-start.fr.md
             - Guides:
                 - Inventaire: guides/inventaire.fr.md
