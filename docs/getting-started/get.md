@@ -15,3 +15,8 @@ If you have problems registering using one method, try the other methods as well
 
 > Note:
 > To get Abelaa on your iOS device, simply use one of the three methods above.
+
+## **Related Resources**
+
+- [How do I create an account on Abelaa?](registration.md)
+- [Log in to an existing account](registration.md)

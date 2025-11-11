@@ -12,6 +12,7 @@ nav:
   - Guides:
       - Inventary: guides/inventaire.md
       - Marketplace: guides/marketplace.md
+      - Inventary group: guides/group.md
       - Potential: guides/potential.md
       - Dashboard: guides/dashboard.md
       - Theming: guides/theming.md
@@ -61,6 +62,7 @@ plugins:
             - Guides:
                 - Inventaire: guides/inventaire.fr.md
                 - Marché: guides/marketplace.fr.md
+                - Groupe d'enventaire: guides/group.fr.md
                 - Potentiel: guides/potential.fr.md
                 - Tableau de bord: guides/dashboard.fr.md
                 - Thème: guides/theming.fr.md
