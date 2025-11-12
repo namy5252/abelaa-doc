@@ -56,6 +56,40 @@ Si vous souhaitez modifier les informations d'un de vos groupes d'inventaire :
 
 Vous pouvez supprimer un groupe pour tous les membres du groupe si vous êtes l'administrateur (gestionnaire). Avant de pouvoir supprimer le groupe, vous devez le retirer de la Marketplace s'il y est répertorié. Lorsque vous supprimez un groupe, celui-ci n'apparaîtra plus dans votre liste de groupes d'inventaire, mais les articles qu'il contenait resteront visibles dans votre inventaire.
 
-1. Accédez au groupe et [rendez-le privé](#comment-modifier-le-statut-dun-groupe-) s'il ne l'est pas déjà.
+1. Accédez au groupe et [rendez-le privé](#comment-modifier-le-statut-dun-groupe) s'il ne l'est pas déjà.
 2. Cliquez sur les trois points situés à droite de l'écran, puis appuyez sur **Supprimer**.
 3. Confirmez la suppression.
+
+## A propos de l'ajout des utilisateurs
+
+La fonctionnalité **Ajouter un Utilisateur à un Groupe d’Inventaire** permet aux **propriétaires d’entreprise** et aux **administrateurs** d’ajouter de nouveaux membres ou des utilisateurs existants à un groupe d’inventaire spécifique.<br>
+Elle facilite la collaboration, le partage des responsabilités et le contrôle des accès dans la gestion des actifs de l’entreprise.
+
+Il existe deux façons d'ajouter un utilisateur à un groupe d'inventaire.
+
+### ***Méthode 1:Créer un nouvel utilisateur***
+
+1. Ouvrez le **groupe d’inventaire** dans lequel vous souhaitez ajouter un membre.
+2. Cliquez sur le bouton **⋮ (Plus d’options)**, puis sélectionnez ***Ajouter un membre***.
+3. Dans la fenêtre modale qui s’ouvre, choisissez **Créer un nouvel utilisateur**.
+4. Renseignez les informations suivantes :
+    - Prénom
+    - Nom
+    - Adresse e-mail
+    - Rôle (Administrateur / Membre / Visiteur)
+Cliquez sur **Enregistrer**.
+
+###  ***Méthode 2: Ajouter un utilisateur existant***
+
+1. Ouvrez le groupe d’inventaire concerné.
+2. Cliquez sur **⋮ (Plus d’options)** puis sélectionnez ***Ajouter un membre***.
+3. Dans la fenêtre modale, choisissez **Sélectionner un utilisateur existant**.
+4. Dans la barre de recherche, saisissez le **courriel**, le **prénom** ou le **nom** de l’utilisateur à ajouter.
+    - Le système lancera automatiquement la recherche pendant la saisie (recherche en temps réel).
+5. Parcourez les résultats affichés et cliquez sur **Ajouter** à côté de l’utilisateur souhaité.
+6. Une fois ajouté avec succès, l’utilisateur apparaîtra dans la **liste des membres** du groupe.
+
+> Remarque<br>
+
+> - Un utilisateur ne peut pas être ajouté deux fois au même groupe d’inventaire.
+> - Seuls les propriétaires d’entreprise ou administrateurs de groupe peuvent effectuer cette action.

@@ -1,6 +1,6 @@
 # Marketplace
 
-La Marketplace est le lieu de rencontre entre les vendeurs et les acheteurs. Ici vous aurez la possibilité d'exposer les biens de votre inventaire que vous souhaitez vendre ou échanger. Si vous souhaiter ajouter un bien dans la Marketplace consulter l'article [mettre un bien en vente](inventaire.fr/#comment-mettre-un-bien-en-vente)
+La Marketplace est le lieu de rencontre entre les vendeurs et les acheteurs. Ici vous aurez la possibilité d'exposer les biens de votre inventaire que vous souhaitez vendre ou échanger. Si vous souhaiter ajouter un bien dans la Marketplace consulter l'article [mettre un bien en vente](../guides/inventaire.fr.md/#comment-mettre-un-bien-en-vente)
 
 ## **Comment consulter la Marketplace?**
 
@@ -76,4 +76,4 @@ Si vous avez changer d'avis et que vous avez décidé de ne plus vendre votre bi
 ## **Ressources connexes**
 
 - [Comment ajouter un bien a son inventaire?](inventaire.fr.md)
-- [Visualiser ](dashboard.fr.md)
+- [Mettre sa boutique sur la MarketPlace ](../guides/group.fr.md)

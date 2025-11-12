@@ -60,3 +60,37 @@ When you delete a group, it will no longer be visible in your list of inventory 
 1. Go to the group and [make it private](#how-to-change-the-status-of-a-group) if it isn't already.
 2. Click on the three dots on the right side of the screen and then tap **delete**.
 3. Confirm the deletion.
+
+## Add user to inventor group
+
+The **Add User to Inventory Group** feature allows enterprise owners and group administrators to add members to specific inventory groups within the platform.<br>
+This enables teams to collaborate on inventory management, assign roles, and control access to resources more effectively.
+
+There are two ways to add a user to an inventory group.
+
+### ***Method 1: Create a New User***
+
+1. Open the **inventory group** to which you want to add a member.
+2. Click the **⋮ (More options)** button, then select ***Add a member***.
+3. In the modal window that opens, choose **Create a new user**.
+4. Enter the following information:
+    - First Name
+    - Last Name
+    - Email Address
+    - Role (Administrator / Member / Viewer)
+Click **Save**.
+
+### ***Method 2: Add an Existing User***
+
+1. Open the relevant inventory group.
+2. Click **⋮ (More options)** then select ***Add a member***.
+3. In the modal window, choose **Select an existing user**.
+4. In the search bar, enter the **email**, **first name**, or **last name** of the user you want to add. 
+- The system will automatically start searching as you type (real-time search).
+5. Browse the displayed results and click **Add** next to the desired user.
+6. Once successfully added, the user will appear in the group's **member list**.
+
+> Note<br>
+
+> - A user cannot be added to the same inventory group twice.
+> - Only business owners or group administrators can perform this action.
