@@ -56,7 +56,18 @@ When you add an item to your inventory, you have the option to publish it on the
 
 The contents of your inventory are confidential until you decide to list it for sale, but users will be able to see all the items you list on the marketplace.
 
-To do this, you must [search](#how-to-find-an-item-in-the-inventory) for the item in your inventory and tap the three small vertical dots, then tap ***List for sale*** and confirm the notification that appears at the top of your screen. Your item is now visible on the marketplace.
+From your inventory or the item page:
+
+1. Click on **“List for Sale”** or **“List in Marketplace”**.
+    - A modal window will open with a short form.
+2. Fill in the required information. You must provide the following:
+    - ***Quantity***: Indicate the number of units you wish to sell or trade.
+    - ***Seller's WhatsApp Number***: Enter the number where buyers can contact you.
+    - ***Location***: Indicate the location of the item.
+    - ***Type of Exchange***: ***Sale*** (item for cash), ***Trade*** (item for item), ***Mixed*** (either one or both)
+3. Click on **“List for Sale”**.
+
+Your item is now visible in the marketplace to all platform users.
 
 ## How do I edit the information about an item?
 
