@@ -2,210 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://flutter.dev/docs/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/about/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/about/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/about/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/faq/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/faq/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/faq/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/getting-started/get/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/getting-started/get/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/getting-started/get/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/getting-started/introduction/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/getting-started/introduction/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/getting-started/introduction/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/getting-started/quick-start/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/getting-started/quick-start/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/getting-started/quick-start/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/getting-started/registration/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/getting-started/registration/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/getting-started/registration/"/>
     </url>
     <url>
-        <loc>https://flutter.dev/docs/guides/adManagement/</loc>
-        <lastmod>2025-11-17</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/adManagement/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/adManagement/"/>
-    </url>
-    <url>
         <loc>https://flutter.dev/docs/guides/dashboard/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/dashboard/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/dashboard/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/guides/group/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/group/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/group/"/>
     </url>
     <url>
-        <loc>https://flutter.dev/docs/guides/group_manager/</loc>
-        <lastmod>2025-11-17</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/group_manager/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/group_manager/"/>
-    </url>
-    <url>
         <loc>https://flutter.dev/docs/guides/inventaire/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/inventaire/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/inventaire/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/guides/marketplace/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/marketplace/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/marketplace/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/guides/potential/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/potential/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/potential/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/guides/theming/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/theming/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/theming/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/about/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/about/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/about/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/faq/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/faq/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/faq/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/getting-started/get/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/getting-started/get/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/getting-started/get/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/getting-started/introduction/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/getting-started/introduction/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/getting-started/introduction/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/getting-started/quick-start/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/getting-started/quick-start/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/getting-started/quick-start/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/getting-started/registration/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/getting-started/registration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/getting-started/registration/"/>
     </url>
     <url>
-        <loc>https://flutter.dev/docs/fr/guides/adManagement/</loc>
-        <lastmod>2025-11-17</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/adManagement/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/adManagement/"/>
-    </url>
-    <url>
         <loc>https://flutter.dev/docs/fr/guides/dashboard/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/dashboard/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/dashboard/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/guides/group/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/group/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/group/"/>
     </url>
     <url>
-        <loc>https://flutter.dev/docs/fr/guides/group_manager/</loc>
-        <lastmod>2025-11-17</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/group_manager/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/group_manager/"/>
-    </url>
-    <url>
         <loc>https://flutter.dev/docs/fr/guides/inventaire/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/inventaire/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/inventaire/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/guides/marketplace/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/marketplace/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/marketplace/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/guides/potential/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/potential/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/potential/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/guides/theming/</loc>
-        <lastmod>2025-11-17</lastmod>
+        <lastmod>2025-11-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/theming/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/theming/"/>
