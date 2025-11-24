@@ -52,25 +52,6 @@ L'ajout d'un filtre permet de chercher un ou plusieurs biens avec des attributes
 
 Remarque : Si vous n’arrivez pas à trouver votre bien, assurez-vous que vous l'avez correctement saisi ou que vous ne l'ayez pas déjà supprimé de l'inventaire. Si le nom est bien sais, veuillez contacter le [service client](https://wa.me/+237698778055)
 
-## Comment mettre un bien en vente?
-
-Lorsque vous ajoutez un bien à l'inventaire vous avez la possibilité de le publier dans la marketplace, l’ensemble des utilisateurs de Abelaa peuvent voir l’annonce et acheter ou échanger votre bien.
-
-Le contenu de votre inventaire est confidentiel jusqu'à ce que vous décidez de le mettre en vente, mais les utilisateurs pourront voir tous les articles que vous mettez dans la marketplace.
-
-Depuis votre inventaire puis la page du bien :
-
-1. Cliquez sur **“Mettre en Vente”** ou **“List in Marketplace”**.
-    - Une fenêtre (modal) s’ouvre avec un court formulaire.
-2. Remplir les Informations Requises. Vous devez renseigner les éléments suivants :
-    - ***Quantité*** :Indiquez le nombre d’unités que vous souhaitez mettre en vente ou en échange.
-    - ***Numéro WhatsApp du Vendeur*** :Entrez le numéro sur lequel les acheteurs peuvent vous joindre.
-    - ***Localisation*** :Indiquez où se trouve le bien.
-    - ***Type d’Échange*** : ***vente*** (bien contre argent), ***troc*** (Bien contre bien), ***mixte***(L'un ou l'autre ou les deux)
-3. Cliquez sur **“Mettre en Vente”**.
-
-Votre bien est maintenant visible dans la marketPlace par tous les utilisateurs de la plateforme.
-
 ## Comment modifier les informations sur une article?
 
 Vous pouvez modifier un article à n'importe quel moment après son [ajout](#comment-ajouter-un-bien-dans-son-inventaire) et il sera instantanément mis à jour dans votre inventaire et sur le MarketPlace si vous l'y avez déjà m'y [en vente](#comment-mettre-un-bien-en-vente). 

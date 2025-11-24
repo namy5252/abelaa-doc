@@ -50,24 +50,6 @@ Adding a filter allows you to search for one or more assets with common attribut
 
 Note: If you cannot find your asset, make sure you have entered it correctly or that you have not already deleted it from the inventory. If the name is correct, please contact [customer service](https://wa.me/+237698778055)
 
-## How do I list an item for sale?
-
-When you add an item to your inventory, you have the option to publish it on the marketplace. All Abelaa users can view the listing and buy or trade your item.
-
-The contents of your inventory are confidential until you decide to list it for sale, but users will be able to see all the items you list on the marketplace.
-
-From your inventory or the item page:
-
-1. Click on **“List for Sale”** or **“List in Marketplace”**.
-    - A modal window will open with a short form.
-2. Fill in the required information. You must provide the following:
-    - ***Quantity***: Indicate the number of units you wish to sell or trade.
-    - ***Seller's WhatsApp Number***: Enter the number where buyers can contact you.
-    - ***Location***: Indicate the location of the item.
-    - ***Type of Exchange***: ***Sale*** (item for cash), ***Trade*** (item for item), ***Mixed*** (either one or both)
-3. Click on **“List for Sale”**.
-
-Your item is now visible in the marketplace to all platform users.
 
 ## How do I edit the information about an item?
 
