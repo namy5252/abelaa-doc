@@ -2,9 +2,8 @@
 
 Il existe trois façons d'obtenir Abelaa:
 
-1. Téléchargez-la depuis l'App Store
-2. Accédez directement au site web via le lien [https://test.abelaa.org/](https://test.abelaa.org/)
-3. Si vous souhaitez bénéficier du programme de parrainage, vous pouvez :
+1. Accédez directement au site web via le lien [https://abelaa.org/](https://abelaa.org/)
+2. Si vous souhaitez bénéficier du programme de parrainage, vous pouvez :
 
     - Pour les comptes professionnels ou professionnels
         *Cliquez sur le lien* [https://Entreprise.abelaa.com](https://test.abelaa.org/en/auth/signup?type=enterprise&ref=ljQuGstUoyofPQUiwKlLAwS9GudfCsCSOls8EOCp0ftOCuiHm8pvQS2OfDlPLo4p)

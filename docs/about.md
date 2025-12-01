@@ -2,7 +2,26 @@
 
 ## **What is Abelaa?**
 
-Abelaa is a mobile app that helps each of us unlock our true intellectual and/or physical potential, democratize asset management, and foster a fairer marketplace. From vintage collectibles to modern electronics, we believe every object has a story and value worth exploring.
+Abelaa Uses a **Progressive Web App (PWA)**
+
+Abelaa is built as a **Progressive Web App (PWA)** to give users a fast, modern, and app-like experience without needing to download anything from an app store. A PWA lets us deliver the best parts of a native mobile app directly through the browser, while keeping the platform lightweight, secure, and accessible on any device.
+
+With our PWA approach, users can:
+
+Install Abelaa like a native app on Android, iPhone, tablets, and desktops—with just one tap.
+
+Enjoy instant loading, even on slow networks, thanks to smart caching and offline-ready features.
+
+Get a smooth, app-like interface with fast navigation, optimized pages, and background loading.
+
+Receive real-time updates and notifications without installing a separate mobile app.
+
+Experience consistent performance across all devices—no version conflicts or mandatory updates.
+
+
+Using a PWA also means that every new feature, bug fix, or improvement becomes available immediately to all users, ensuring a unified, up-to-date experience for everyone on Abelaa.
+
+In short, Abelaa’s PWA foundation lets us combine the reach of the web with the power of a mobile app, giving users a seamless, fast, and reliable marketplace experience—anytime, anywhere.
 
 ![Alt text](assets/img/accueil.png " Abelaa Home page")
 

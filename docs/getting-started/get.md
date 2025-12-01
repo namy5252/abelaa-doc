@@ -2,9 +2,8 @@
 
 There are 3 ways to get Abelaa:
 
-1. Download it from the App Store
-2. Access the website directly via the link [https://test.abelaa.org/](https://test.abelaa.org/)
-3. If you wish to take advantage of the referral program, you can:
+1. Access the website directly via the link [https://abelaa.org/](https://abelaa.org/)
+2. If you wish to take advantage of the referral program, you can:
 
     - For professional or business accounts
         *Click on the link* [https://Entreprise.abelaa.com](https://test.abelaa.org/en/auth/signup?type=enterprise&ref=ljQuGstUoyofPQUiwKlLAwS9GudfCsCSOls8EOCp0ftOCuiHm8pvQS2OfDlPLo4p)
