@@ -99,6 +99,13 @@
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/potential/"/>
     </url>
     <url>
+        <loc>https://flutter.dev/docs/guides/stock/</loc>
+        <lastmod>2026-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/stock/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/stock/"/>
+    </url>
+    <url>
         <loc>https://flutter.dev/docs/guides/theming/</loc>
         <lastmod>2026-01-19</lastmod>
         <changefreq>daily</changefreq>
@@ -208,6 +215,7 @@
         <lastmod>2026-01-19</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://flutter.dev/docs/fr/guides/stock/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://flutter.dev/docs/guides/stock/"/>
     </url>
     <url>
         <loc>https://flutter.dev/docs/fr/guides/theming/</loc>
