@@ -51,11 +51,11 @@ La fonctionnalité de recherche vous permet de rechercher l'un de vos article à
 
 L'ajout d'un filtre permet de chercher un ou plusieurs articles avec des attributes en commun les filtres sont placés à droite de la barre de recherche vous pouvez appliquer un ou plusieurs filtres en sélectionnant sa valeur.
 
-Remarque : Si vous n’arrivez pas à trouver votre article, assurez-vous que vous l'avez correctement saisi ou que vous ne l'ayez pas déjà supprimé de l'espace de stock. Si le nom est article sais, veuillez contacter le [service client](https://wa.me/+237698778055)
+Remarque : Si vous n’arrivez pas à trouver votre article, assurez-vous que vous l'avez correctement saisi ou que vous ne l'ayez pas déjà supprimé de l'espace de stock. Si le nom de l'article est bien saisi et qu'il est supposé être dans le stock mais que vous n'arrivez toujours pas à le trouver, veuillez contacter le [service client](https://wa.me/+237698778055)
 
 ## Comment modifier les informations sur une article?
 
-Vous pouvez modifier un article à n'importe quel moment après son [ajout](#comment-ajouter-un-article-dans-son-espace de stock) et il sera instantanément mis à jour dans votre espace de stock et sur le MarketPlace si vous l'y avez déjà m'y [en vente](#comment-mettre-un-article-en-vente). 
+Vous pouvez modifier un article à n'importe quel moment après son [ajout](#comment-ajouter-un-article-dans-son-espace de stock) et il sera instantanément mis à jour dans votre espace de stock et sur le MarketPlace si vous l'y avez déjà mis [en vente](#comment-mettre-un-article-en-vente). 
 
 ## Comment supprimer un article de l'espace de stock?
 

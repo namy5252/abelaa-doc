@@ -50,7 +50,7 @@ The search function allows you to find one of your items using a keyword. To per
 
 Adding a filter allows you to search for one or more items with common attributes. Filters are located to the right of the search bar. You can apply one or more filters by selecting their values.
 
-Note: If you cannot find your item, make sure you have entered it correctly or that you haven't already deleted it from the inventory. If the item name is incorrect, please contact customer service (https://wa.me/+237698778055).
+Note: If you cannot find your item, please ensure that you have entered it correctly or that you have not already removed it from the inventory. If the item name is entered correctly and it should be in stock, but you still cannot find it, please contact customer service at [customer service](https://wa.me/+237698778055).
 
 ## How do I edit an item's information?
 
