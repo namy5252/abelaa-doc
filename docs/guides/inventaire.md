@@ -25,10 +25,10 @@ You can then choose to give it to an individual, a loved one, or even a business
 
 To add a new item to your inventory, simply follow the steps on the inventory page or dashboard:
 
-1. Click "Add an item"
+1. Click "Add an new asset"
 2. Enter the item's information
 3. Add a primary image (required) and one or more secondary images (optional)
-4. Confirm to save with the ***Add an item*** button
+4. Confirm to save with the ***Add*** button
 
 > Note: If you feel like the confirmation button isn't working, try going back up the form and checking that all the required fields (marked with a red *) are completed.
 

@@ -25,10 +25,10 @@ Vous pouvez choisir par la suite de le donner a un individu quelconque, un proch
 
 Pour ajouter un nouveau bien dans votre inventaire il vous suffira sur la page de l'inventaire ou sur le tableau de bord de:
 
-1. cliquer sur « *ajouter un bien* »
+1. cliquer sur « *ajouter un nouvel article* »
 2. renseigner  les informations sur le bien
 3. ajouter une image principale(obligatoire) et une ou plusieurs image(s) secondaire(s)(facultatif).
-4. valider pour enregistrer avec le bouton ***Ajouter un bien***
+4. valider pour enregistrer avec le bouton ***Ajouter***
 
 > Remarque: Si vous avez l'impression que le bouton de validation ne marche pas essayez de remonter dans le formulaire et verifié si tout les champs obligatoires (Marqué par un * rouge) sont renseignés
 

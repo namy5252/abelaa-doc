@@ -1,7 +1,7 @@
 # Groupes d'inventaire
 
 Un groupe d'inventaire est un espace où vous pouvez regrouper vos articles selon vos propres critères.<br>
-Pour accéder au groupe d'inventaire, vous devez, à partir de l'une des fonctionnalités de l'application, cliquer sur ***Groupe d'inventaire*** dans le menu.
+Pour accéder au groupe d'inventaire, vous devez, à partir de la fonctionnalités ***inventaire*** de l'application, cliquer sur ***Groupe d'inventaire*** dans le menu.
 
 ## **Comment créer un groupe d'inventaire ?**
 
@@ -51,6 +51,20 @@ Si vous souhaitez modifier les informations d'un de vos groupes d'inventaire :
 1. Recherchez le groupe d'inventaire, puis cliquez sur le nom du groupe. 2. Cliquez sur les trois points verticaux.
 3. Sélectionnez **Modifier** et apportez les modifications nécessaires.
 4. Cliquez sur **Enregistrer**.
+
+## Comment transférer un bien d'un groupe à un autre ?
+
+Si vous  souhaitez transférer un bien d'un groupe à un autre, vous devez :
+
+1. Ouvrez le **groupe d’inventaire** dans lequel se situe le bien que vous devez déplacer.
+2. Cliquez sur le bouton **⋮ (Plus d’options)** à côté du bien concerné.
+3. Sélectionnez **Transférer**, un formulaire va s'afficher ou il faudra.
+    - Sélectionner le groupe dans lequel le bien dois être envoyé
+    - Mettre la quantité d'unité du bien qui doivent être transférés
+
+> La quantité de bien transféré ne doit pas être supérieur à celle en stock dans le groupe d'inventaire d'origine.
+
+4. Cliquez sur **Confirmer**.
 
 ## Comment supprimer un groupe d'inventaire ?
 

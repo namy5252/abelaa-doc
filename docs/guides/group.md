@@ -1,7 +1,7 @@
 # Inventory Groups
 
 An inventory group is a space where you can group your items according to your own criteria.<br>
-To access the inventory group, you must, from one of the application's features, click on ***Inventory Group*** in the menu.
+To access the inventory group, you must, from the ***inventory*** features of the application, click on ***Inventory Group*** in the menu.
 
 ## **How ​​to create an inventory group?**
 
@@ -51,6 +51,20 @@ If you want to edit information about one of your inventory groups:
 1. Search for the inventory group, then click on the group name. 2. Click on the three vertical dots.
 3. Select **Edit**, and make any necessary changes.
 4. Click **Save**.
+
+## How to transfer an asset from one group to another?
+
+If you wish to transfer an asset from one group to another, you must:
+
+1. Open the **inventory group** containing the asset you need to move.
+2. Click the **⋮ (More options)** button next to the asset.
+3. Select **Transfer**. A form will appear where you will need to:
+    - Select the group to which the asset should be sent.
+    - Enter the quantity of the asset to be transferred.
+
+> The quantity of the transferred asset must not exceed the quantity in stock in the original inventory group.
+
+4. Click on **Confirm**.
 
 ## How to delete an inventory group?
 

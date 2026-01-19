@@ -12,7 +12,10 @@ nav:
   - Guides:
       - Inventary: guides/inventaire.md
       - Marketplace: guides/marketplace.md
+      - Abelaa Mall: guides/mall.md
+      - Book Section: guides/book.md
       - Inventary group: guides/group.md
+      - Stock Management: guides/stock.md
       - Potential: guides/potential.md
       - Dashboard: guides/dashboard.md
       - Theming: guides/theming.md
@@ -62,7 +65,10 @@ plugins:
             - Guides:
                 - Inventaire: guides/inventaire.fr.md
                 - Marché: guides/marketplace.fr.md
+                - Abelaa Mall: guides/mall.fr.md
+                - Section Livre: guides/book.fr.md
                 - Groupe d'enventaire: guides/group.fr.md
+                - Gestion des stocks: guides/stock.fr.md
                 - Potentiel: guides/potential.fr.md
                 - Tableau de bord: guides/dashboard.fr.md
                 - Thème: guides/theming.fr.md
