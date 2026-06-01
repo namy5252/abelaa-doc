@@ -59,7 +59,7 @@ Vous pouvez modifier un article à n'importe quel moment après son [ajout](#com
 ## Comment supprimer un bien de l'inventaire?
 
 Dans l’inventaire, survolez le bien à supprimer.
-Cliquez sur les trois petits points d'option verticaux choisissez l'option ***supprimer le bien*** puis confirmez la suppression.
+Cliquez sur les trois petits à coté du noms de l'article choisissez l'option ***supprimer le bien*** puis confirmez la suppression.
 
 ![alt text](../assets/img/item.png)
 

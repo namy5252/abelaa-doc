@@ -18,7 +18,15 @@ Depuis votre inventaire puis la page du bien :
     - ***Numéro WhatsApp du Vendeur*** :Entrez le numéro sur lequel les acheteurs peuvent vous joindre.
     - ***Localisation*** :Indiquez où se trouve le bien.
     - ***Type d’Échange*** : ***vente*** (bien contre argent), - ***troc*** (Bien contre bien), ***mixte***(L'un ou l'autre ou les deux)
-3. Cliquez sur **“Mettre en Vente”**.
+3. Cliquez sur **“Créer une annonce”**.
+
+Il est aussi possible de choisir de mettre 1 article en promotion lors de la mise en vente pour cela avant de cliquer sur **“Créer une annonce”** activer l'option **Promotion** puis:
+
+- Ajouter le nouveau prix
+- La date de début de la promotion
+- La date de fin de la promotion
+
+> Cette opération n'est cependant pas graduite
 
 Votre bien est maintenant visible dans la marketPlace par tous les utilisateurs de la plateforme.
 

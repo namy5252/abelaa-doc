@@ -60,7 +60,7 @@ Vous pouvez modifier un article à n'importe quel moment après son [ajout](#com
 ## Comment supprimer un article de l'espace de stock?
 
 Dans l’espace de stock, survolez le article à supprimer.
-Cliquez sur les trois petits points d'option verticaux choisissez l'option ***supprimer le article*** puis confirmez la suppression.
+Cliquez sur les trois petits à coté du noms de l'article choisissez l'option ***supprimer le article*** puis confirmez la suppression.
 
 > Remarque : la suppression d’un article est un acte irréversible. Abelaa n’est pas en mesure de récupérer les articles supprimées par vous. Vous ne pouvez récupérer les articles supprimées qu'en les [ajoutant](#comment-ajouter-un-article-dans-son-espace de stock) à nouveau manuellement dans l'espace de stock. Veuillez noter que si le article figurais dans le marketplace il ne sera pas supprimé l'avez déjà vendu ou échangé.
 

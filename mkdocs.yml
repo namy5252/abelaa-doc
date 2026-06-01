@@ -10,12 +10,18 @@ nav:
       - Registration: getting-started/registration.md
       - Quick Start: getting-started/quick-start.md
   - Guides:
-      - Inventary: guides/inventaire.md
-      - Marketplace: guides/marketplace.md
-      - Abelaa Mall: guides/mall.md
-      - Book Section: guides/book.md
-      - Inventary group: guides/group.md
-      - Stock Management: guides/stock.md
+      - Inventor:
+          - Inventary group: guides/inventaire/group.md
+          - Inventary: guides/inventaire/inventaire.md
+      - Marketplace: 
+          - Marketplace: guides/marketplace/marketplace.md
+          - Stock Management: guides/marketplace/stock.md
+          - Abelaa Mall: guides/marketplace/mall.md
+      - Restaurant: guides/restaurant/restaurant.md
+      - Housing: guides/housing/housing.md
+      - Book Place:
+          - Book Section: guides/bookplace/book.md
+          - Book Exchange: guides/bookplace/bourse.md
       - Potential: guides/potential.md
       - Dashboard: guides/dashboard.md
       - Theming: guides/theming.md
@@ -63,12 +69,18 @@ plugins:
                 - Inscription: getting-started/registration.fr.md
                 - Démarrage rapide: getting-started/quick-start.fr.md
             - Guides:
-                - Inventaire: guides/inventaire.fr.md
-                - Marché: guides/marketplace.fr.md
-                - Abelaa Mall: guides/mall.fr.md
-                - Section Livre: guides/book.fr.md
-                - Groupe d'enventaire: guides/group.fr.md
-                - Gestion des stocks: guides/stock.fr.md
+                - Inventaire: 
+                    - Inventaire: guides/inventaire.fr.md
+                    - Groupe d'inventaire: guides/group.fr.md
+                - Marché: 
+                    - Markeplace: guides/marketplace.fr.md
+                    - Abelaa Mall: guides/mall.fr.md
+                    - Gestion des stocks: guides/stock.fr.md
+                - Restaurant: guides/restaurant/restaurant.fr.md
+                - Hébergement: guides/housing/housing.fr.md
+                - Librairie:
+                    - Section Livre: guides/book.fr.md
+                    - Bourse des livres: guides/bourse.fr.md
                 - Potentiel: guides/potential.fr.md
                 - Tableau de bord: guides/dashboard.fr.md
                 - Thème: guides/theming.fr.md
